@@ -1,0 +1,14 @@
+/**/
+.main-box {
+  display: flex;
+  flex-wrap: wrap;
+  width: 770px;
+  height: 770px;
+  border: 5px solid black;
+}
+
+.square {
+  height: 150px;
+  width: 150px;
+  border: 2px solid black;
+}
