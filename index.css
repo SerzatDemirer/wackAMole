@@ -12,3 +12,7 @@
   width: 150px;
   border: 2px solid black;
 }
+
+.mole {
+  background-image: url(./img/images.jpeg);
+}
